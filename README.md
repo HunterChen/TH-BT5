@@ -1,9 +1,22 @@
-"""
-http://turing.slu.edu/~hastint/AttackVector.htm
-"""
+[atwerkVector](http://turing.slu.edu/~hastint/AttackVector.htm).org
+==============
 
-bt5-scripts
-===========
+[code]  
+
+`#!/usr/env/bash`  
+`sudo apt-get install git`  
+`git clone git://github.com/thomhastings/bt5-scripts.git bt5`  
+`git clone git://github.com/thomhastings/os-scripts.git oss`  
+`git clone git://github.com/thomhastings/rice.git rwn`  
+`git clone git://github.com/thomhastings/c0ntempt.git con`  
+`git clone git://github.com/thomhastings/dotfiles.git .dot`  
+`cd .dot`  
+`sh install.sh`  
+
+[/code]
+
+bt5
+===
 
 Included is a set of scripts written for
 [BackTrack](http://backtrack-linux.org) 5r3,
