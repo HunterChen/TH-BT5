@@ -1,4 +1,4 @@
-[atwerkVector](http://turing.slu.edu/~hastint/AttackVector.htm).org
+[attackVector](http://bit.do/avlinuxdl).org (64-bit only)
 ==============
 
 [code]  
@@ -132,6 +132,3 @@ Here is each script and a short description:
 [21]: http://adaywithtape.blogspot.com/2012/10/manipulating-wordlists-with-wlm.html "TAPE's wordlist-manipulator"
 [22]: http://www.isdpodcast.com/resources/62k-common-passwords "InfoSec Daily Podcast's wordlists"
 [23]: http://www.skullsecurity.org/wiki/index.php/Passwords "SkullSecurity.org Passwords Wiki"
-
-More information about me:  
-http://turing.slu.edu/~hastint
